@@ -44,6 +44,9 @@ This project utilizes PostgreSQL and Python to analyze movie datasets sourced fr
 - CSV files contain properly formatted data.
 - The PostgreSQL database is set up and accessible.
 - Python and necessary libraries (e.g., `psycopg2`) are installed.
+  `pip install pandas`
+  `pip install sqlite3`
+- Import them.
 
 ## Contribution
 
